@@ -1,0 +1,24 @@
+﻿
+Lifecycle - ASP.net MVC
+Routing
+Naming Conventions
+Middleware
+Creating controller,actions
+ActionResults
+ActionNames
+ActionVerbs
+ActionFilters
+OutputCache
+Authorize
+CustomActionFilters - creation
+RAZOR Engine
+HTML Helpers
+Layout
+Partial View
+Session Management
+
+
+Entity Framework
+Validation
+
+

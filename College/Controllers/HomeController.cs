@@ -1,4 +1,5 @@
-﻿using System;
+﻿using College.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,9 +14,12 @@ namespace College.Controllers
             return View();
         }
 
+        [Log]
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+
+            //ViewBag.RamaKrishna = "I'm rama";
 
             return View();
         }
